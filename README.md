@@ -5,10 +5,10 @@
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLaiR&layout=compact&hide_border=true&langs_count=10" alt="WeiLai's Most used languages"> -->
 
 * 一个即将毕业的大学生，未来的码农。
-* 目前正在学习Spring框架和Golang。
-* 会使用Java、C和Golang，主流的Java框架也会使用。
+* 目前正在深入学习Spring框架和Golang。
+* 掌握Java、C、Golang和主流的Java框架。
 * 经常刷算法题，[LeetCode](https://leetcode.cn/u/weilai-/)常客。
-  * (我光是刷算法题的代码量就已经有两万行了)
+  * (刷题代码量两万行左右)
 * 我的[博客](https://baiblog.top)，不常更新所以内容并不多。
   * (平常也会写很多笔记，但是偶尔心血来潮才会去整理发上去)
 * 很想找个开源项目和大伙一起开发，如果你的开源项目缺人，并且我又能满足要求的话，请告诉我一声，我会火速加入⚡！
