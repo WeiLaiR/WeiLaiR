@@ -11,13 +11,12 @@
   * (刷题代码量两万行左右)
 * 我的[博客](https://baiblog.top)，不常更新所以内容并不多。
   * (平常也会写很多笔记，但是偶尔心血来潮才会去整理发上去)
-* 很想找个开源项目和大伙一起开发，如果你的开源项目缺人，并且我又能满足要求的话，请告诉我一声，我会火速加入⚡！
+* ⚡
 
 * 🌱 I’m currently learning Spring and Golang.
 * At present, I have mastered Java, C, go and other development languages and some mainstream java development frameworks.
 * I often immerse myself in algorithms.[MyLeetCode](https://leetcode.cn/u/weilai-/)
 * This is my [blog](https://baiblog.top/).I seldom update my blog, so there is not much content in it.
-* I hope I can participate in some open source projects, so if your project lacks manpower, and you think my ability can meet the requirements, please tell me!
 
 
 <p align="center">
