@@ -1,6 +1,9 @@
-### Hi there 👋
 
 <img align="center" src="https://github.com/WeiLaiR/WeiLaiR/blob/main/R%26M.jpg">
+
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### Hi there 👋
 
 <img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api?username=WeiLaiR&show_icons=true&theme=vue">
 
