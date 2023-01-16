@@ -12,27 +12,3 @@
   * (平常也会写很多笔记，但是偶尔心血来潮才会去整理发上去)
 * ⚡
 
-* 🌱 I’m currently learning Spring and Golang.
-* At present, I have mastered Java, C, go and other development languages and some mainstream java development frameworks.
-* I often immerse myself in algorithms.[MyLeetCode](https://leetcode.cn/u/weilai-/)
-* This is my [blog](https://baiblog.top/).I seldom update my blog, so there is not much content in it.
-
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=WeiLaiR.WeiLaiR" alt="visitor badge"/>
-</p>
-
-<!--
-**cangbai12/cangbai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
