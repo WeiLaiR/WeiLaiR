@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src="https://github.com/WeiLaiR/WeiLaiR/blob/main/R%26M.jpg">
+
 <img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api?username=WeiLaiR&show_icons=true&theme=vue">
 
 <!-- <img  src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=WeiLaiR&layout=compact&hide_border=true&langs_count=10" alt="WeiLai's Most used languages"> -->
