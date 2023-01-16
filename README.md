@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WeiLaiR&show_icons=true&theme=radical">
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLaiR&layout=compact&hide_border=true&langs_count=10" alt="WeiLai's Most used languages"> -->
+<!-- <img  src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=WeiLaiR&layout=compact&hide_border=true&langs_count=10" alt="WeiLai's Most used languages"> -->
 
 * 一个即将毕业的大学生。
 * 目前仍在学习Java框架和Golang。
